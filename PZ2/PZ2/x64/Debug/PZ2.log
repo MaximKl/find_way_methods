@@ -1,0 +1,10 @@
+﻿  main.c
+E:\Important_Files\Вчоба\семестр 6\ОШІ\PZ2\PZ2\main.c(39,16): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+E:\Important_Files\Вчоба\семестр 6\ОШІ\PZ2\PZ2\main.c(40,14): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+E:\Important_Files\Вчоба\семестр 6\ОШІ\PZ2\PZ2\main.c(41,14): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+E:\Important_Files\Вчоба\семестр 6\ОШІ\PZ2\PZ2\main.c(42,14): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+E:\Important_Files\Вчоба\семестр 6\ОШІ\PZ2\PZ2\main.c(57,3): warning C4013: 'gets' undefined; assuming extern returning int
+E:\Important_Files\Вчоба\семестр 6\ОШІ\PZ2\PZ2\main.c(92,5): warning C4013: 'clearmarkers' undefined; assuming extern returning int
+E:\Important_Files\Вчоба\семестр 6\ОШІ\PZ2\PZ2\main.c(93,18): warning C4013: 'pop' undefined; assuming extern returning int
+E:\Important_Files\Вчоба\семестр 6\ОШІ\PZ2\PZ2\main.c(94,5): warning C4013: 'retract' undefined; assuming extern returning int
+  PZ2.vcxproj -> E:\Important_Files\Вчоба\семестр 6\ОШІ\PZ2\x64\Debug\PZ2.exe
